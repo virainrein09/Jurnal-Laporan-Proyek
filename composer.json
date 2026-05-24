@@ -1,0 +1,12 @@
+{
+  "name": "pplg/journal-system",
+  "description": "PPLG Journal System",
+  "require": {
+    "php": ">=7.4",
+    "phpoffice/phpword": "^1.1"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
+}
